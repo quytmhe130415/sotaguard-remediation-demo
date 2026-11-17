@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/quytmhe130415/sotaguard-remediation-demo#readme",
   "dependencies": {
-    "lodash": "4.17.20"
+    "lodash": "4.17.21"
   }
 }
